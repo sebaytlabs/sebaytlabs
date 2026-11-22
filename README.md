@@ -2,7 +2,7 @@
 
 *Sebayt* is the ancient Egyptian word for teachings. We build small, plain tools that do one job well, and we give them away. They're free, open source (MIT), work offline and need no account.
 
-Everything here is sorted the PARA way: **Projects** we're actively shipping, **Areas** we keep looking after, **Resources** to borrow from, and **Archives** for what's finished.
+Each one is a desktop app with its own window: open it, and every page tells you what to do. Everything here is sorted the PARA way: **Projects** we're actively shipping, **Areas** we keep looking after, **Resources** to borrow from, and **Archives** for what's finished.
 
 ## Projects
 
