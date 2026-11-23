@@ -8,25 +8,25 @@ Each one is a desktop app with its own window, and the first time you open it a 
 
 ## Projects
 
-| | |
-|---|---|
-| [**SimpleBrain**](https://github.com/sebaytlabs/simplebrain) | A notes app that doesn't make you configure it: plain Markdown files, `[[links]]` with a live graph, tasks, an inbox, a calendar and email. Windows, Mac and Linux. [Download](https://github.com/sebaytlabs/simplebrain/releases/latest) |
+| | | |
+|---|---|---|
+| <a href="https://github.com/sebaytlabs/simplebrain"><img src="https://raw.githubusercontent.com/sebaytlabs/simplebrain/main/packaging/icon.svg" alt="" width="56"></a> | [**SimpleBrain**](https://github.com/sebaytlabs/simplebrain) | A notes app that doesn't make you configure it: plain Markdown files, `[[links]]` with a live graph, tasks, an inbox, a calendar and email. Windows, Mac and Linux. [Download](https://github.com/sebaytlabs/simplebrain/releases/latest) |
 
 ## Areas
 
-| Area | Repo | What it does |
-|---|---|---|
-| Learning | [**learning-kit**](https://github.com/sebaytlabs/learning-kit) | Read a book and still remember it a month later: a guided book routine, spaced flashcards, quizzes, a speed reader and a Colemak trainer. [Download](https://github.com/sebaytlabs/learning-kit/releases/latest) |
-| Learning | [**transcribe-folder**](https://github.com/sebaytlabs/transcribe-folder) | A folder of lectures or podcasts in, timestamped text out. Offline, resumable, fine on a small laptop. [Download](https://github.com/sebaytlabs/transcribe-folder/releases/latest) |
-| Your files | [**drive-kit**](https://github.com/sebaytlabs/drive-kit) | Keep your files on your own drives: mirroring that never deletes, folder flattening with duplicate cleanup, a keep/delete sorter and screenshot text search. [Download](https://github.com/sebaytlabs/drive-kit/releases/latest) |
-| Your day | [**day-blocks**](https://github.com/sebaytlabs/day-blocks) | Write your ideal day once as plain text and get repeating events in any calendar. [Download](https://github.com/sebaytlabs/day-blocks/releases/latest) |
-| Making videos | [**clip-pipeline**](https://github.com/sebaytlabs/clip-pipeline) | OBS recording in; full video, vertical Shorts and Reels clips, a thumbnail and every caption out. |
+| | Area | Repo | What it does |
+|---|---|---|---|
+| <a href="https://github.com/sebaytlabs/learning-kit"><img src="https://raw.githubusercontent.com/sebaytlabs/learning-kit/main/icon.svg" alt="" width="56"></a> | Learning | [**learning-kit**](https://github.com/sebaytlabs/learning-kit) | Read a book and still remember it a month later: a guided book routine, spaced flashcards, quizzes, a speed reader and a Colemak trainer. [Download](https://github.com/sebaytlabs/learning-kit/releases/latest) |
+| <a href="https://github.com/sebaytlabs/transcribe-folder"><img src="https://raw.githubusercontent.com/sebaytlabs/transcribe-folder/main/icon.svg" alt="" width="56"></a> | Learning | [**transcribe-folder**](https://github.com/sebaytlabs/transcribe-folder) | A folder of lectures or podcasts in, timestamped text out. Offline, resumable, fine on a small laptop. [Download](https://github.com/sebaytlabs/transcribe-folder/releases/latest) |
+| <a href="https://github.com/sebaytlabs/drive-kit"><img src="https://raw.githubusercontent.com/sebaytlabs/drive-kit/main/icon.svg" alt="" width="56"></a> | Your files | [**drive-kit**](https://github.com/sebaytlabs/drive-kit) | Keep your files on your own drives: mirroring that never deletes, folder flattening with duplicate cleanup, a keep/delete sorter and screenshot text search. [Download](https://github.com/sebaytlabs/drive-kit/releases/latest) |
+| <a href="https://github.com/sebaytlabs/day-blocks"><img src="https://raw.githubusercontent.com/sebaytlabs/day-blocks/main/icon.svg" alt="" width="56"></a> | Your day | [**day-blocks**](https://github.com/sebaytlabs/day-blocks) | Write your ideal day once as plain text and get repeating events in any calendar. [Download](https://github.com/sebaytlabs/day-blocks/releases/latest) |
+| <a href="https://github.com/sebaytlabs/clip-pipeline"><img src="https://raw.githubusercontent.com/sebaytlabs/clip-pipeline/main/icon.svg" alt="" width="56"></a> | Making videos | [**clip-pipeline**](https://github.com/sebaytlabs/clip-pipeline) | OBS recording in; full video, vertical Shorts and Reels clips, a thumbnail and every caption out. |
 
 ## Resources
 
-| | |
-|---|---|
-| [**sebayt-theme**](https://github.com/sebaytlabs/sebayt-theme) | The hand-written Shopify theme behind [sebaytlabs.com](https://sebaytlabs.com): Liquid and plain CSS, with no build step. |
+| | | |
+|---|---|---|
+| <a href="https://github.com/sebaytlabs/sebayt-theme"><img src="https://raw.githubusercontent.com/sebaytlabs/sebayt-theme/main/icon.svg" alt="" width="56"></a> | [**sebayt-theme**](https://github.com/sebaytlabs/sebayt-theme) | The hand-written Shopify theme behind [sebaytlabs.com](https://sebaytlabs.com): Liquid and plain CSS, with no build step. |
 
 ## How they fit together
 
