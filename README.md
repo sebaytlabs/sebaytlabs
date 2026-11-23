@@ -55,4 +55,4 @@ Nothing yet.
 
 Browse by group: [projects](https://github.com/sebaytlabs?tab=repositories&q=topic%3Aprojects) · [areas](https://github.com/sebaytlabs?tab=repositories&q=topic%3Aareas) · [resources](https://github.com/sebaytlabs?tab=repositories&q=topic%3Aresources) · [archives](https://github.com/sebaytlabs?tab=repositories&q=topic%3Aarchives)
 
-[sebaytlabs.com](https://sebaytlabs.com) · [YouTube](https://www.youtube.com/@sebaytlabs) · [Instagram](https://www.instagram.com/sebaytlabs/)
+[sebaytlabs.com](https://sebaytlabs.com) · [YouTube](https://www.youtube.com/@sebaytlabs) · [Instagram](https://www.instagram.com/sebaytlabs/) · [Facebook](https://www.facebook.com/profile.php?id=61595435445875) · [Threads](https://www.threads.net/@sebaytlabs)
