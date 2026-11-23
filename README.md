@@ -4,7 +4,7 @@
 
 **Why we build.** So many everyday tools are either rented by the month, harder to use than the job they do, or quietly built to keep you inside them. We think the default should be better: tools that are free, plain, private, and good at one job. Every repo here started as a real problem in our own work. Each README tells that story: *why it exists, what it replaces, why it works the way it does, and where it falls short*.
 
-Each one is a desktop app with its own window, and the first time you open it a short tutorial walks you through every part, one real click at a time. Everything here is sorted the PARA way: **Projects** we're actively shipping, **Areas** we keep looking after, **Resources** to borrow from, and **Archives** for what's finished.
+Each one is a desktop app with its own window, and the first time you open it a short tutorial walks you through every part, one real click at a time. Each has a download for Windows, Mac and Linux on its release page. The one exception is Clip Pipeline, which runs from source on Linux because it's built around OBS. Everything here is sorted the PARA way: **Projects** we're actively shipping, **Areas** we keep looking after, **Resources** to borrow from, and **Archives** for what's finished.
 
 ## Projects
 
@@ -16,10 +16,10 @@ Each one is a desktop app with its own window, and the first time you open it a 
 
 | Area | Repo | What it does |
 |---|---|---|
-| Learning | [**learning-kit**](https://github.com/sebaytlabs/learning-kit) | Read a book and still remember it a month later: a guided book routine, spaced flashcards, quizzes, a speed reader and a Colemak trainer. |
-| Learning | [**transcribe-folder**](https://github.com/sebaytlabs/transcribe-folder) | A folder of lectures or podcasts in, timestamped text out. Offline, resumable, fine on a small laptop. |
-| Your files | [**drive-kit**](https://github.com/sebaytlabs/drive-kit) | Keep your files on your own drives: mirroring that never deletes, folder flattening with duplicate cleanup, a keep/delete sorter and screenshot text search. |
-| Your day | [**day-blocks**](https://github.com/sebaytlabs/day-blocks) | Write your ideal day once as plain text and get repeating events in any calendar. |
+| Learning | [**learning-kit**](https://github.com/sebaytlabs/learning-kit) | Read a book and still remember it a month later: a guided book routine, spaced flashcards, quizzes, a speed reader and a Colemak trainer. [Download](https://github.com/sebaytlabs/learning-kit/releases/latest) |
+| Learning | [**transcribe-folder**](https://github.com/sebaytlabs/transcribe-folder) | A folder of lectures or podcasts in, timestamped text out. Offline, resumable, fine on a small laptop. [Download](https://github.com/sebaytlabs/transcribe-folder/releases/latest) |
+| Your files | [**drive-kit**](https://github.com/sebaytlabs/drive-kit) | Keep your files on your own drives: mirroring that never deletes, folder flattening with duplicate cleanup, a keep/delete sorter and screenshot text search. [Download](https://github.com/sebaytlabs/drive-kit/releases/latest) |
+| Your day | [**day-blocks**](https://github.com/sebaytlabs/day-blocks) | Write your ideal day once as plain text and get repeating events in any calendar. [Download](https://github.com/sebaytlabs/day-blocks/releases/latest) |
 | Making videos | [**clip-pipeline**](https://github.com/sebaytlabs/clip-pipeline) | OBS recording in; full video, vertical Shorts and Reels clips, a thumbnail and every caption out. |
 
 ## Resources
